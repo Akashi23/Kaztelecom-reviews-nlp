@@ -1,0 +1,8 @@
+{
+   "error": {
+      "message": "API access disrupted. Go to the App Dashboard and complete Data Use Checkup.",
+      "type": "OAuthException",
+      "code": 200,
+      "fbtrace_id": "Afy90-S_sNjXub56_SyztxQ"
+   }
+}
